@@ -1,0 +1,16 @@
+#####################################################################################
+## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2024/2025, Enunciado Versão 1
+##
+## Aluno: Nº:124549       Nome:Josh Rufino
+## Nome do Módulo: S2.3 cron.def
+## Descrição/Explicação do Módulo:
+##
+##
+## Explicação de quais os comandos a usar para configurar o seu sistema Linux
+## usando este ficheiro:
+##
+##
+#####################################################################################
+
+59 5 * * 1-5 cd /home/a124549/parte-1 && ./manutencao.sh
+1 13 * * 1-5 cd /home/a124549/parte-1 && ./manutencao.sh
